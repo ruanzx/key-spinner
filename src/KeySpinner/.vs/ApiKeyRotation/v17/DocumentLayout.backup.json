@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\api-key-loader\\ApiKeyRotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23BF4C7A-6BBC-4273-A4B4-B8F83DB6EB23}|..\\KeySpinner.UnitTests\\KeySpinner.UnitTests.csproj|d:\\api-key-loader\\keyspinner.unittests\\apikeyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BF4C7A-6BBC-4273-A4B4-B8F83DB6EB23}|..\\KeySpinner.UnitTests\\KeySpinner.UnitTests.csproj|d:\\api-key-loader\\keyspinner.unittests\\rediskeyqueuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisKeyQueueTests.cs",
+              "DocumentMoniker": "D:\\api-key-loader\\KeySpinner.UnitTests\\RedisKeyQueueTests.cs",
+              "RelativeDocumentMoniker": "..\\KeySpinner.UnitTests\\RedisKeyQueueTests.cs",
+              "ToolTip": "D:\\api-key-loader\\KeySpinner.UnitTests\\RedisKeyQueueTests.cs",
+              "RelativeToolTip": "..\\KeySpinner.UnitTests\\RedisKeyQueueTests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:55:17.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiKeyServiceTests.cs",
+              "DocumentMoniker": "D:\\api-key-loader\\KeySpinner.UnitTests\\ApiKeyServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\KeySpinner.UnitTests\\ApiKeyServiceTests.cs",
+              "ToolTip": "D:\\api-key-loader\\KeySpinner.UnitTests\\ApiKeyServiceTests.cs",
+              "RelativeToolTip": "..\\KeySpinner.UnitTests\\ApiKeyServiceTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAhwDcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:49:52.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
